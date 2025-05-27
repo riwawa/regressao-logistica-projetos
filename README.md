@@ -1,5 +1,6 @@
 # Projetos de Regressão Logística 🧠📊
 ![Em Desenvolvimento](https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow)
+---
 Este repositório reúne projetos práticos utilizando **regressão logística** para resolver problemas de **classificação binária** com Python e bibliotecas como `pandas`, `scikit-learn` e `matplotlib`.
 
 ## Projetos
